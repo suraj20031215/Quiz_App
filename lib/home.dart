@@ -155,7 +155,7 @@ elevation: 1.6,
                                 onPressed: (){
                                 Navigator.pushReplacement(context, MaterialPageRoute(builder:   (context) => const HomeScreen(),));
                               },
-                              child: Text('Next Question',style: TextStyle(color: Colors.white),),),
+                              child: Text('Tab to Go Next Question',style: TextStyle(color: Colors.white),),),
                             )
                           ],
                         ),
